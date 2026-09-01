@@ -1,0 +1,19 @@
+{
+  "total_queries": 12,
+  "top_k": 3,
+  "configurations": {
+    "defended": {
+      "poisoned_top1_rate": 0.0,
+      "contamination_rate_at_k": 1.0,
+      "clean_recall_at_k": 1.0,
+      "mean_result_trust": 0.8202777777777778
+    },
+    "naive": {
+      "poisoned_top1_rate": 1.0,
+      "contamination_rate_at_k": 1.0,
+      "clean_recall_at_k": 1.0,
+      "mean_result_trust": 0.7855555555555555
+    }
+  },
+  "top1_attack_reduction": 1.0
+}
