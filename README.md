@@ -78,6 +78,9 @@ python -m pytest
 For a code walkthrough, design explanations and likely interview questions,
 read [`docs/INTERVIEW_GUIDE.md`](docs/INTERVIEW_GUIDE.md).
 
+For the exact ranking rules, metric denominators and interpretation of the
+saved results, see [evaluation protocol](docs/EVALUATION_PROTOCOL.md).
+
 ## Results
 
 The committed results were generated with the deterministic local experiment:
